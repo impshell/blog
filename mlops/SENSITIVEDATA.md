@@ -12,6 +12,6 @@ I hope some insights from my experience navigating this problem set are of use t
 ## Research to Production lifecycle
 The ML Ops lifecycle normally consists of everything involved in going from a data scientist's idea to a released AI/ML feature.
 
-[Lifecycle](./lifecycle.excalidraw.png)
+![Lifecycle](./lifecycle.excalidraw.png)
 
 Now let's say you have some sort of classifier AI/ML workflow. 
